@@ -5,19 +5,16 @@
   --dark-gray: hsl(0, 0%, 59%);
 }
 
-
 body {
   /* Font Weights 400 & 700 */
   font-size: 18px;
   font-family: 'Kumbh Sans', sans-serif;
+
+  /* background-color: var(--dark-cyan);
+  background-image: url('/assets/images/bg-pattern-top.svg'), url('/assets/images/bg-pattern-bottom.svg');
+  background-position:top -650px left -650px, right -740px bottom -970px;
+  background-repeat: no-repeat, no-repeat; */
 }
-
-
-
-
-
-
-
 
 
 /* Media Query Breakpoints */
