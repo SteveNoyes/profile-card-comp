@@ -72,13 +72,8 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [email input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Multiple Image Background](https://www.w3schools.com/css/css3_backgrounds.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
-- [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
-
-- [text spacing](https://www.w3schools.com/css/css_text_spacing.asp) - Spacing for the top header was made easier with this.
-
-- [HTML form placeholder](https://www.w3schools.com/howto/howto_css_placeholder.asp) - How to alter the placeholder text inside of HTML forms. 
 
 ## Author
 
