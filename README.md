@@ -72,8 +72,6 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [The Markdown Guide](https://www.markdownguide.org/) - Helpful in making this more readable. 
-
 - [email input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 - [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - Box shadow for button and div sections. 
