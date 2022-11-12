@@ -2,7 +2,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,14 +16,6 @@
 Users should be able to:
   - View the optimal layout for the site depending on their device's screen size
 
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
 
 ### Links
 
