@@ -74,6 +74,7 @@ const proudOfThisFunc = () => {
 
 - [Multiple Image Background](https://www.w3schools.com/css/css3_backgrounds.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
+- [Image Position](https://www.freecodecamp.org/news/how-to-center-an-image-in-css/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
